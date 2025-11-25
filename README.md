@@ -38,7 +38,7 @@ You will be suspicious on the datagraph. AskChina the range is 10 years and for 
 
 ---
 
-![eETO78p](https://hackmd.io/_uploads/B1ct09Z-Wx.png)
+![eETO78p](https://i.imgur.com/o81xdgQ.png)
 
 Looking at this data that we have gotten from reddit api library, PRAW and the graph from matplotlib, you would see a curve in the negative while the curve on the positive are lower. Between -0.75 and -1.0, massive spike in comments with scores with heavy negatives. While +0.50 and +0.75, it shows heavy positive sentiment. The Center is very much steady. 
 
@@ -46,7 +46,7 @@ Overall, this looks high polarization. Since we used VADER (Valence Aware Dictio
 
 The conclusion, the fact that the "Tankie" subset is more negative (-0.062) than the overall average suggests that discussions involving these keywords trigger hostility.
 
-![bbe54c29-80ee-44d1-bba1-7a022a643593](https://hackmd.io/_uploads/By6NgsW-Zg.png)
+![bbe54c29-80ee-44d1-bba1-7a022a643593](https://i.imgur.com/Vl0he9W.png)
 
 > WARNING: MAKE SURE TO IGNORE AUTOMODERATOR. 
 > Why?
@@ -79,8 +79,8 @@ The sample size is small (12 users), but the impact is likely high.
 In data science, we look for "Superusers."
 Even though you only found a handful of overlapping users, One_Long_996 and Key-Needleworker-702 combined for 26 interactions. In a bigger subreddit like r/AskAChinese, 26 comments/posts from highly ideologically motivated users can easily shift the sentiment distribution (creating that "Negative Peak" we saw in your previous graph).
 
-![bd04b455-a8bf-4970-baa6-11fa2c27ee3d](https://hackmd.io/_uploads/rk0LzsWZZe.png)
-![7f17a440-dd98-456c-994d-05fbc632cdf3](https://hackmd.io/_uploads/Syd5GiZWZx.png)
+![bd04b455-a8bf-4970-baa6-11fa2c27ee3d](https://i.imgur.com/3S2JGWi.png)
+![7f17a440-dd98-456c-994d-05fbc632cdf3](https://i.ibb.co/MyvVcKzd/upload-57ac713deef454d5036e4330fda68507.png))
 ![2604f519-599d-4e64-8b25-0e082f572a7f](https://hackmd.io/_uploads/HJzofo--bg.png)
 ![4fbfcfe0-de1f-4d32-a21c-54cead25a78a](https://hackmd.io/_uploads/ryUizsbb-l.png)
 ![98725ad4-bb40-4760-bde6-671227f6fdf3](https://hackmd.io/_uploads/SJx3MjbZWg.png)
